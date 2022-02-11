@@ -3,7 +3,7 @@ package com.company;
 public class Person {
     String name;
     String designation;
-
+//missed no arg constructor!
     public Person(String name, String designation) {
         this.name = name;
         this.designation = designation;
