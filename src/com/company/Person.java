@@ -11,14 +11,17 @@ public class Person {
 
     public void learn() {
         System.out.println("Okugandy bilbeyt");
-
+//there is not spaces (cleen code)
     }
     public void walk() {
         System.out.println("Semirip ketgendikten kop basat");
-
+//there is not spaces (cleen code)
     }
     public void eat() {
         System.out.println("Nandy ayabay kop jep semirip ketti");
-
+//there is not spaces (cleen code)
     }
+    
+    //you missed getters & setters
+    // & you missed thString(); methods
 }
