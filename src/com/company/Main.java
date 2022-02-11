@@ -27,6 +27,5 @@ public class Main {
         singer.playGitar();
         singer.singing();
 
-        // MAIN CLASS WAS AMAZING ! 👍🏻
     }
 }
