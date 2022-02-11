@@ -3,6 +3,7 @@ package com.company;
 public class Programmer extends Person{
     String companyName;
 
+    //no arg constructor
     public Programmer(String name, String designation, String companyName) {
         super(name, designation);
         this.companyName = companyName;
@@ -14,6 +15,7 @@ public class Programmer extends Person{
 
     public void coding() {
         System.out.println("Kod jazyp tajabayt");
-
     }
+    
+    //define getter & setter & toString() !
 }
