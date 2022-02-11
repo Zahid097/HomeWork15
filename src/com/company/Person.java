@@ -4,6 +4,9 @@ public class Person {
     String name;
     String designation;
 
+    //create not arg constructor
+    // public Person() {
+    //}
     public Person(String name, String designation) {
         this.name = name;
         this.designation = designation;
@@ -21,4 +24,8 @@ public class Person {
         System.out.println("Nandy ayabay kop jep semirip ketti");
 
     }
+    
+    //you missed getters & setters
+    // & you missed toString();
+    
 }
